@@ -10,4 +10,5 @@
 - 🔭 토스랩(TossLab)에서 잔디(JANDI)를 만들고 있습니다.
 - 🌱 프론트엔드(Javascript, React)를 열심히 공부중입니다.
 - 📋 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.ubar.kr/)](https://blog.ubar.kr/)에서 글 쓰고 있습니다.
+- 포트폴리오
 - 📫 위에 있는 이메일을 통해 연락주세요. :D
