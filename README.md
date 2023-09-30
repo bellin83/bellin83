@@ -10,5 +10,3 @@
 - 😄 저는 건우, 은우 아빠 우바입니다.
 - 🌱 프론트엔드 개발자로 살고 있습니다.
 - 📫 위에 있는 이메일을 통해 연락주세요. :D
-
-![snake gif](https://github.com/ubardev/ubardev/blob/output/github-contribution-grid-snake.svg)
